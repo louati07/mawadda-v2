@@ -331,19 +331,3 @@ Expected output:
 ```
 
 ---
-
-## 11. Git Repository Management
-
-### Push to GitHub
-```bash
-git branch -M main
-git remote add origin https://github.com/<your-username>/mawadda-spring.git
-git push -u origin main
-```
-
-### Push to GitLab
-```bash
-git branch -M main
-git remote add origin https://gitlab.com/<your-username>/mawadda-spring.git
-git push -u origin main
-```
